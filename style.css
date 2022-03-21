@@ -1,0 +1,30 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+}
+#textbox
+{
+    width: 300px;
+}
+*{
+    background-color: cornsilk;
+}
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    bottom: 0;
+}
